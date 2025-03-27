@@ -3,7 +3,7 @@ indexpage:
   tiles:
   - title: 设置
     links:
-    - title: Unified Manager界面概述
+    - title: SANtricity Unified Manager界面概述
       url: "../um-admin/overview-interface-unified.html"
     - title: 设置管理员密码
       url: "../um-admin/administrator-password-protection-unified.html"

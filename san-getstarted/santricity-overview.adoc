@@ -15,8 +15,8 @@ E 系列系统包括用于存储配置和其他任务的 SANtricity 软件。
 
 此站点介绍如何使用以下SANtricity 管理接口：
 
-* System Manager —一种基于 Web 的界面，用于管理存储阵列中的一个控制器。
-* Unified Manager —一种基于 Web 的界面，用于查看和管理网络中的所有存储阵列。
+* SANtricity系统管理器--一种基于Web的界面，用于管理存储阵列中的一个控制器。
+* SANtricity统一管理器--一种基于Web的界面，用于查看和管理网络中的所有存储阵列。
 
 
 
